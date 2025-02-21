@@ -1,0 +1,64 @@
+{
+   "RecentArr" : [
+  {
+    "title": "Waves",
+    "artist": "Oceanic Vibes",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "audio": "https://yourdomain.com/audio/waves.mp3"
+  },
+  {
+    "title": "Echoes",
+    "artist": "Silent Whispers",
+    "imageUrl": "https://unsplash.com/photos/black-and-grey-microphone-on-stand-63sI4HO30tw",
+    "audio": "https://yourdomain.com/audio/echoes.mp3"
+  },
+  {
+    "title": "Night Drive",
+    "artist": "Midnight Motion",
+    "imageUrl": "https://images.unsplash.com/photo-1558981285-6f0c94958bb6",
+    "audio": "https://yourdomain.com/audio/night_drive.mp3"
+  },
+  {
+    "title": "Sunset",
+    "artist": "Crimson Horizon",
+    "imageUrl": "https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg",
+    "audio": "https://yourdomain.com/audio/sunset.mp3"
+  },
+  {
+    "title": "Pulse",
+    "artist": "Beatline",
+    "imageUrl": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1",
+    "audio": "https://yourdomain.com/audio/pulse.mp3"
+  },
+  {
+    "title": "Skyline",
+    "artist": "City Tones",
+    "imageUrl": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg",
+    "audio": "https://yourdomain.com/audio/skyline.mp3"
+  },
+  {
+    "title": "Raindrops",
+    "artist": "Liquid Notes",
+    "imageUrl": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+    "audio": "https://yourdomain.com/audio/raindrops.mp3"
+  },
+  {
+    "title": "Horizon",
+    "artist": "Farview",
+    "imageUrl": "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg",
+    "audio": "https://yourdomain.com/audio/horizon.mp3"
+  },
+  {
+    "title": "Galaxy",
+    "artist": "Cosmic Journey",
+    "imageUrl": "https://unsplash.com/photos/milky-way-galaxy-wallpaper-fUnfEz3VLv4",
+    "audio": "https://yourdomain.com/audio/galaxy.mp3"
+  },
+  {
+    "title": "Neon Lights",
+    "artist": "Urban Glow",
+    "imageUrl": "https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg",
+    "audio": "https://yourdomain.com/audio/neon_lights.mp3"
+  }
+]
+}

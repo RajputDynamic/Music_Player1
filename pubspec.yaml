@@ -1,0 +1,81 @@
+name: music_player
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  http: ^1.4.0
+  url_launcher: ^6.1.5
+  audioplayers: ^6.4.0
+  get: ^4.6.5
+  lottie: ^3.3.1
+  auto_size_text: ^3.0.0
+  liquid_swipe: ^3.1.0
+  smooth_page_indicator: ^1.2.1
+  flutter_otp_text_field: ^1.1.0+2
+  firebase_core: ^3.13.0
+  flutter_launcher_icons: ^0.14.3
+  firebase_auth: ^5.5.2
+  pin_code_fields: ^8.0.1
+  google_sign_in: ^6.3.0
+  cloud_firestore: ^5.6.7
+  cached_network_image: ^3.3.1
+  just_audio: ^0.9.32
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/logo_music.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/logo_music.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/2978.png
+    - assets/musicSplash.png
+    - assets/google_logo.png
+    - assets/Animation - 1742746973149-LHbai.json
+    - assets/Welcome_Screen.json
+    - assets/login_Screen_animation.json
+    - assets/Sign_In_Screen.json
+    - assets/forgetPhone.png
+    - assets/forgetMailPage.png
+    - assets/home_unSel.png
+    - assets/Songs_icon.png
+    - assets/songs_icon_unSel.png
+    - assets/settings_icon.png
+    - assets/settings_icon_un.png
+    - assets/home_icon.png
+    - assets/logo_music.png
+    - assets/untitled.json
+    - assets/menu-img.png
+    - assets/Search-unSel.png
+    - assets/search-Sel.png
+    - assets/All_Songs.json
+
+
